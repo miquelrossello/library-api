@@ -1,0 +1,9 @@
+## DOCKER FILES
+./docker
+./docker-compose.yml
+
+## ENV FILES
+./.env.example
+
+## PROJECT FILES
+./vendor
